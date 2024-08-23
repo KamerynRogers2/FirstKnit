@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Kameryn Rogers"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
+I went to Eastside Highschool, yes i graduated. Math is easier for me and i was best in math. 
      
 
 
@@ -26,14 +26,14 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+ Macbook and a 9 in computer skills and my internet at home is good.
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+ I prefer to be called Kameryn 
    
  
 
@@ -45,7 +45,7 @@ What do you want to achieve in life?  What college subject do you think would be
 
 ### my answer     
   
-   
+i want to Achieve a good football career, I feel like psychology is the best fit for me and i want my Bachelors degree.   
  
 
 
@@ -56,7 +56,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 ### my answer     
   
-   
+I dont know what foreign countries i would go to and i never been in the military and idk what i would pick if i got drafted   
   
 
 
@@ -69,7 +69,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ### my answer     
   
-   
+   i need an A
  
 
 
